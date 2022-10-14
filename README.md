@@ -1,2 +1,2 @@
 # FibonacciHeap
-Python implementation of Fibonacci Heap
+Python implementation of Fibonacci Heap Data Structure
